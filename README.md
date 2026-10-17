@@ -7,3 +7,4 @@ instructions:
   press ESC to stop
   ARROW to move 
   NUMBERS to deploy
+  DON'T PLAY IT IN MATH CLASS!!!
